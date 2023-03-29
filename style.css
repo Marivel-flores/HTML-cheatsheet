@@ -1,0 +1,33 @@
+body {
+    background-color: whitesmoke;
+}
+
+h2 {
+    color: darkslategray;
+    text-align: center;
+}
+
+td {
+    background-color: gainsboro;
+    text-align: center;
+}
+
+#pageheader {
+    text-align: center;
+}
+
+.tableoutline {
+    background-color: black;
+}
+
+.tablehead {
+    background-color: darkslategrey;
+    color: white;
+}
+
+.tabletag {
+    background-color: darkslategray;
+    color: white;
+    font-family: Courier, monospace;
+    padding: 5px;
+}
